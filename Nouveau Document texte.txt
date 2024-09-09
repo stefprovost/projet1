@@ -1,0 +1,23 @@
+Tâches à réaliser:
+1. Création d'une machine virtuelle (Linux Debian recommandé) dans le Cloud Azure
+ssh -i "C:\Users\stpro\OneDrive\Documents\DEC\5e session\Nouvelle techno\Debian_key.pem" azureuser@4.248.46.241
+
+2. Réserver/louer un nom de domaine via un registrar
+http://plantesvertes.info
+
+3. Configurer le DNS avec l'adresse IP de la machine Azure
+4. Installer et configurer un service web (NGINX ou Apache recommandé)
+5. Mettre en place un petit site web pour tester
+6. Configurer la sécurité SSL avec Let's Encrypt
+https://certbot.eff.org/instructions?ws=apache&os=snap
+
+
+Tâches au choix:
+Vous devez réaliser, à votre choix, 1 des 3 tâches suivantes:
+7. Installer un IPS (intrusion prevention software) comme fail2ban par exemple pour protéger la
+VM.
+8. Mettre en place un pipeline de Déploiement avec GitHub Actions. Configurez un pipeline de
+déploiement utilisant GitHub Actions. Chaque fois qu'un push est effectué sur la branche
+principale (ou toute autre branche de votre choix), le pipeline doit automatiquement
+déployer le site web.
+9. Mettre en place un compteur de visiteurs sur votre site web.
