@@ -1,0 +1,9 @@
+C:\Users\stpro\OneDrive\Documents\DEC\5e session\Nouvelle techno\projet1
+
+https://drive.google.com/file/d/1sK84_2-99tqqTgybVknMi2RUVb2Ny27m/view?usp=sharing
+https://raw.githubusercontent.com/stefprovost/projet1/main/pageweb.html
+
+ssh -i "C:\Users\stpro\OneDrive\Documents\DEC\5e session\Nouvelle techno\Debian_key.pem" azureuser@4.248.46.241
+
+<script src="https://cdn.commoninja.com/sdk/latest/commonninja.js" defer></script>
+<div class="commonninja_component pid-14e353ad-842a-4cb8-8ab8-44d37f7331f3"></div>
